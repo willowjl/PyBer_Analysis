@@ -4,7 +4,8 @@
 
 ## 2. Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-![Total Fare by City Type] (PyBer_fare_summary.png![image](https://user-images.githubusercontent.com/111030781/193719027-bdf073a4-d4c3-4701-82b7-84267601da88.png)
+### fig1- Total Fare by City Type
+![image](https://user-images.githubusercontent.com/111030781/193719027-bdf073a4-d4c3-4701-82b7-84267601da88.png)
 
 
 
